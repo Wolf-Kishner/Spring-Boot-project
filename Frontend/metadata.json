@@ -1,0 +1,5 @@
+{
+  "name": "React To-Do List App",
+  "description": "A simple and elegant To-Do list application built with React, TypeScript, and Tailwind CSS. Allows users to add, delete, complete, and search their tasks.",
+  "requestFramePermissions": []
+}
